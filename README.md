@@ -1,5 +1,5 @@
 # sql
-Realistic data analysis tool based on database (SQL)
+Realistic data analysis tool based on database (SQL) and computer vision (OpenCV).
 
 ![](detect_barcode.png)
 
