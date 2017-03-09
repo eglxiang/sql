@@ -45,7 +45,7 @@ for epoch in np.arange(0, args["epochs"]):
 	# pedestrians on the dataset.
 	preds = sigmoid_activation(X.dot(W))
 
-	# now that we have our pedestrians, we need to determine
+	# now that we have our predictions, we need to determine
 	# our 'error', which is the difference between our predictions
 	# and the true values
 	error = preds - y
